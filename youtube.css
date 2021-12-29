@@ -1,0 +1,17 @@
+#logo{
+    display: flex;
+    width: 300px;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-justify: inherit;
+    background-color: aqua;
+}
+#logo1{
+    max-width: 70px;
+    max-height: 70px;
+}
+#logo2{
+    color: black;
+}
