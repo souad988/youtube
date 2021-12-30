@@ -16,7 +16,7 @@ body{
 #nav-bar{
     
     display: grid;
-    grid-template-columns: 1fr 4fr 15fr ;
+    grid-template-columns: 1fr 6fr 20fr ;
     
     max-height: 50px;
     width: 100%;
@@ -47,6 +47,7 @@ body{
     margin: auto;
     display: flex;
     justify-self:left !important;
+    margin-left: 0 !important;
     font-size: x-large;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
