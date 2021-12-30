@@ -16,7 +16,7 @@ body{
 #nav-bar{
     
     display: grid;
-    grid-template-columns: 1fr 6fr 20fr ;
+    grid-template-columns: 1fr 4fr 15fr ;
     
     max-height: 50px;
     width: 100%;
@@ -33,14 +33,15 @@ body{
     
 }
 #nav-search>img{
-    max-width: 19px;
-    max-height: 19px;
+    max-width: 28px;
+    max-height: 28px;
     border:solid 1px rgb(119, 118, 118);
     background-color: white;
     
 }
 #nav-search>input{
-    max-height: 25px;
+    max-height: 30px;
+    min-height: 30px;
     width: 600px;
 }
 #logo{
